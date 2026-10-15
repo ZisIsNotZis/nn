@@ -29,6 +29,7 @@ dat/
 *.npz
 
 # Editor / OS noise
+.pi/
 .vscode/
 .idea/
 .DS_Store

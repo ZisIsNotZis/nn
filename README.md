@@ -58,5 +58,4 @@ remain. If you fork this, scan it yourself before publishing.
 
 ## License
 
-No LICENSE file in the directory. Assume all rights reserved by the author
-until a license is chosen.
+AGPL-3.0-only; see `LICENSE`.
