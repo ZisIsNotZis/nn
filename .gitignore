@@ -23,7 +23,8 @@ jupyter_notebook_config.py
 secrets.*
 
 # Local data / assets referenced by the notebooks (not shipped)
-assets/
+assets/*
+!assets/logo.svg
 data/*.npz
 dat/
 *.npz

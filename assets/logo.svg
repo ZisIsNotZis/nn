@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" width="200" height="40" role="img" aria-label="nn">
+  <title>nn</title>
+  <!-- mark: a three-layer net, edges drawn as attention weights fanning into one output -->
+  <g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" opacity="0.75">
+    <path d="M12 11 L26 8"/>
+    <path d="M12 11 L26 20"/>
+    <path d="M12 11 L26 32"/>
+    <path d="M12 20 L26 8"/>
+    <path d="M12 20 L26 20"/>
+    <path d="M12 20 L26 32"/>
+    <path d="M12 29 L26 8"/>
+    <path d="M12 29 L26 20"/>
+    <path d="M12 29 L26 32"/>
+    <path d="M30 8 L40 20"/>
+    <path d="M30 20 L40 20"/>
+    <path d="M30 32 L40 20"/>
+  </g>
+  <g fill="currentColor">
+    <circle cx="9" cy="11" r="2.6"/>
+    <circle cx="9" cy="20" r="2.6"/>
+    <circle cx="9" cy="29" r="2.6"/>
+    <circle cx="28.5" cy="8" r="2.4"/>
+    <circle cx="28.5" cy="20" r="2.4"/>
+    <circle cx="28.5" cy="32" r="2.4"/>
+    <circle cx="42.5" cy="20" r="3.2"/>
+  </g>
+  <!-- wordmark -->
+  <text x="56" y="28" fill="currentColor" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" letter-spacing="0.5">nn</text>
+  <text x="94" y="27" fill="currentColor" opacity="0.55" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5">NOTEBOOKS</text>
+</svg>
