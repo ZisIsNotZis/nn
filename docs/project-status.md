@@ -43,5 +43,4 @@ and rotated. No executed outputs are present (every cell has empty outputs);
 two pasted loss-plot image attachments remain and were inspected for
 credentials, hostnames, and personal data. `nnMeta/cnnTrainEval.ipynb`
 consumes the public CIFAR-100 dataset from a relative `../dat/` path; those
-derived folders are not shipped. No LICENSE file — all rights reserved by the
-author until a license is chosen.
+derived folders are not shipped. Licensed AGPL-3.0-only (`LICENSE`), copyright ZisIsNotZis.
